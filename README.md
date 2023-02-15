@@ -1,2 +1,2 @@
 # userin
-Library std::cin validate value
+Library std::cin validate and set value.
